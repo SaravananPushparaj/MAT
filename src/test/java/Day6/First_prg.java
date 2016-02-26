@@ -6,7 +6,7 @@ public class First_prg {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello World");
-		System.out.println("Welcome");
+		System.out.println("Welcome2");
 	}
 
 }
